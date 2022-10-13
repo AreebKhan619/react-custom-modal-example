@@ -1,11 +1,5 @@
 import ReactDOM from "react-dom";
-import {
-  useEffect,
-  useLayoutEffect,
-  useReducer,
-  useRef,
-  useState
-} from "react";
+import { useRef, useState } from "react";
 import "./styles.css";
 import useOnClickOutside from "./useOnClickOutside";
 
